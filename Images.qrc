@@ -1,0 +1,20 @@
+<RCC>
+  <qresource>
+    <file>star/QL1.jpg</file>
+    <file>star/QL2.jpg</file>
+    <file>star/QL3.jpg</file>
+
+    <file>star/BH1.jpg</file>
+    <file>star/BH2.jpg</file>
+    <file>star/BH3.jpg</file>
+
+    <file>star/ZQ1.jpg</file>
+    <file>star/ZQ2.jpg</file>
+    <file>star/ZQ3.jpg</file>
+
+    <file>star/XW1.jpg</file>
+    <file>star/XW2.jpg</file>
+    <file>star/XW3.jpg</file>
+
+  </qresource>
+</RCC>
